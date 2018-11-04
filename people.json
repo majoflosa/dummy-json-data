@@ -13,7 +13,7 @@
             "street": "555 Main St",
             "street2": null,
             "city": "Dallas",
-            "state": "Texas",
+            "state": "TX",
             "code": 75201,
             "country": "USA"
         },
@@ -34,7 +34,7 @@
             "street": "123 Main St",
             "street2": null,
             "city": "Cleveland",
-            "state": "Ohio",
+            "state": "OH",
             "code": 12345,
             "country": "USA"
         },
@@ -55,7 +55,7 @@
             "street": "123 Sample Avenue",
             "street2": null,
             "city": "Seattle",
-            "state": "Washington",
+            "state": "WA",
             "code": 91274,
             "country": "USA"
         },
@@ -76,10 +76,136 @@
             "street": "90 Lorem Hwy",
             "street2": null,
             "city": "Omaha",
-            "state": "Nebraska",
+            "state": "NE",
             "code": 33302,
             "country": "USA"
         },
         "bio": "Donec egestas, purus vel euismod cursus, augue risus suscipit massa, at dignissim mauris dui quis elit. Sed ullamcorper leo at tellus tristique fringilla. In sem diam, venenatis a quam quis, vehicula vestibulum tellus. Vivamus et mi libero. Mauris porttitor nibh metus, vitae mollis velit iaculis nec."
+    },
+    
+    "p05": {
+        "id": 18450,
+        "firstName": "Maggie",
+        "lastName": "Gorley",
+        "birth": "1983-06-11",
+        "gender": "female",
+        "isPrivate": false,
+        "interests": [
+            "cryptography", "sculpting", "macrame"
+        ],
+        "address": {
+            "street": "23 Bellevue St",
+            "street2": null,
+            "city": "Leesburg",
+            "state": "VA",
+            "code": 20175,
+            "country": "USA"
+        },
+        "bio": "Morbi posuere felis dolor, nec dictum ex rhoncus sed. Suspendisse eu interdum dolor, ut pellentesque enim. Quisque molestie porttitor ante in convallis. Curabitur ornare hendrerit odio, in luctus dui aliquet a."
+    },
+
+    "p06": {
+        "id": 81237,
+        "firstName": "Stuart",
+        "lastName": "Carboni",
+        "birth": "1983-06-11",
+        "gender": "male",
+        "isPrivate": false,
+        "interests": [
+            "painting", "origami", "fishing"
+        ],
+        "address": {
+            "street": "780 Edgefield Ave.",
+            "street2": null,
+            "city": "Ames",
+            "state": "IA",
+            "code": 50010,
+            "country": "USA"
+        },
+        "bio": "Ut tellus justo, blandit eget sapien sit amet, accumsan interdum nulla. Proin dui mi, ullamcorper et tincidunt et, vulputate sit amet nunc. Aliquam consequat nisi arcu, ac vehicula dolor laoreet eu. Proin in justo dolor."
+    },
+
+    "p07": {
+        "id": 64531,
+        "firstName": "Shondra",
+        "lastName": "Mason",
+        "birth": "1989-12-08",
+        "gender": "female",
+        "isPrivate": false,
+        "interests": [
+            "camping", "sailing", "acrobatics"
+        ],
+        "address": {
+            "street": "168 Edgefield Ave.",
+            "street2": null,
+            "city": "Cheshire",
+            "state": "CT",
+            "code": 6410,
+            "country": "USA"
+        },
+        "bio": "Aenean tristique nibh sed condimentum tempus. Proin id lobortis odio. Vestibulum id ligula dapibus tellus scelerisque commodo. Mauris pulvinar ante sit amet dictum euismod."
+    },
+
+    "p08": {
+        "id": 10009,
+        "firstName": "Benedict",
+        "lastName": "Pettey",
+        "birth": "1976-02-26",
+        "gender": "male",
+        "isPrivate": true,
+        "interests": [
+            "computer programming", "gaming", "model building"
+        ],
+        "address": {
+            "street": "523 Mayflower Ave.",
+            "street2": null,
+            "city": "Tallahassee",
+            "state": "FL",
+            "code": 32303,
+            "country": "USA"
+        },
+        "bio": "Nunc dolor neque, elementum ut efficitur at, imperdiet a metus. Proin iaculis eget massa nec dictum. Phasellus id augue non mauris accumsan porttitor. Quisque rhoncus ligula bibendum leo rhoncus elementum non nec magna. Maecenas eu orci risus. Sed in dictum lacus, nec gravida urna. Aenean ultrices pulvinar ante, a interdum sapien rutrum at."
+    },
+
+    "p09": {
+        "id": 11457,
+        "firstName": "Sanford",
+        "lastName": "Mcroy",
+        "birth": "1985-05-16",
+        "gender": "male",
+        "isPrivate": false,
+        "interests": [
+            "creative writing", "photography", "Astronomy"
+        ],
+        "address": {
+            "street": "59 Homewood Ave.",
+            "street2": null,
+            "city": "Harrison Township",
+            "state": "MI",
+            "code": 48045,
+            "country": "USA"
+        },
+        "bio": "Morbi sapien augue, aliquet a enim eu, dignissim ultrices mauris. Fusce dignissim suscipit fermentum. Vestibulum eu gravida nunc. Vestibulum aliquam eros ac purus euismod venenatis. Curabitur dignissim eu neque ac sodales."
+    },
+
+    "p10": {
+        "id": 20706,
+        "firstName": "Carma",
+        "lastName": "Matsumoto",
+        "birth": "1978-07-18",
+        "gender": "female",
+        "isPrivate": false,
+        "interests": [
+            "kayaking", "taekwondo", "Reading"
+        ],
+        "address": {
+            "street": "42 Edgewater Drive",
+            "street2": null,
+            "city": "Kaukauna",
+            "state": "WI",
+            "code": 54130,
+            "country": "USA"
+        },
+        "bio": "Curabitur euismod, erat a pretium tincidunt, lacus sapien sagittis sapien, sit amet bibendum quam dui ut mi. Integer gravida, mauris in tempor sollicitudin, justo enim tincidunt magna, sit amet porta magna nisi sed neque."
     }
 }

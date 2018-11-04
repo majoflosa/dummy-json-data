@@ -1,0 +1,85 @@
+{
+    "p01": {
+        "id": 24153,
+        "firstName": "Jasper",
+        "lastName": "Goodnight",
+        "birth": "1988-04-01", 
+        "gender": "male",
+        "isPrivate": false,
+        "interests": [
+            "sports", "poker", "cars"
+        ],
+        "address": {
+            "street": "555 Main St",
+            "street2": null,
+            "city": "Dallas",
+            "state": "Texas",
+            "code": 75201,
+            "country": "USA"
+        },
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget sem volutpat, consectetur arcu nec, ullamcorper erat. Vestibulum eget eros in metus imperdiet maximus quis vulputate lectus. Etiam magna massa, dictum vel dolor vel, convallis dapibus leo."
+    },
+
+    "p02": {
+        "id": 10822,
+        "firstName": "Soraya",
+        "lastName": "Blaze",
+        "birth": "1980-08-22",
+        "gender": "female",
+        "isPrivate": false,
+        "interests": [
+            "politics", "exercise", "music"
+        ],
+        "address": {
+            "street": "123 Main St",
+            "street2": null,
+            "city": "Cleveland",
+            "state": "Ohio",
+            "code": 12345,
+            "country": "USA"
+        },
+        "bio": "Quisque magna nibh, aliquet eget nulla vitae, sollicitudin ullamcorper augue. Fusce a nisl ligula. Maecenas condimentum condimentum nunc sed pellentesque."
+    },
+
+    "p03": {
+        "id": 93752,
+        "firstName": "Dominga",
+        "lastName": "McClusky",
+        "birth": "1992-01-12",
+        "gender": "female",
+        "isPrivate": true,
+        "interests": [
+            "gardening", "art", "religion"
+        ],
+        "address": {
+            "street": "123 Sample Avenue",
+            "street2": null,
+            "city": "Seattle",
+            "state": "Washington",
+            "code": 91274,
+            "country": "USA"
+        },
+        "bio": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus ut ligula dignissim, tincidunt sapien et, tempus mi."
+    },
+
+    "p04": {
+        "id": 84656,
+        "firstName": "Marlin",
+        "lastName": "Whitting",
+        "birth": "1977-10-23",
+        "gender": "male",
+        "isPrivate": false,
+        "interests": [
+            "agriculture", "music", "horses"
+        ],
+        "address": {
+            "street": "90 Lorem Hwy",
+            "street2": null,
+            "city": "Omaha",
+            "state": "Nebraska",
+            "code": 33302,
+            "country": "USA"
+        },
+        "bio": "Donec egestas, purus vel euismod cursus, augue risus suscipit massa, at dignissim mauris dui quis elit. Sed ullamcorper leo at tellus tristique fringilla. In sem diam, venenatis a quam quis, vehicula vestibulum tellus. Vivamus et mi libero. Mauris porttitor nibh metus, vitae mollis velit iaculis nec."
+    }
+}
